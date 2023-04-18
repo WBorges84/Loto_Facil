@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/10/08 13:31:09.000.469,=C:\Users\willi\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/10/08 15:24:06.000.402,C:\Users\willi\OneDrive\Documentos\Embarcadero\Studio\Projects\Lotofacil\uPrincipal.fmx=C:\Users\willi\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2021/10/08 15:24:06.000.402,C:\Users\willi\OneDrive\Documentos\Embarcadero\Studio\Projects\Lotofacil\uPrincipal.pas=C:\Users\willi\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/10/08 15:24:19.000.652,C:\Users\willi\OneDrive\Documentos\Embarcadero\Studio\Projects\Lotofacil\LotoFacil.dproj=C:\Users\willi\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/10/13 22:25:39.000.570,=C:\Users\willi\OneDrive\Documentos\Embarcadero\Studio\Projects\Lotofacil\Units\u99Permissions.pas</Transaction>
+    <Transaction>2022/01/15 11:42:02.082,=C:\Users\willi\OneDrive\Documentos\Embarcadero\Studio\Projects\App Salão\UclienteCad.pas</Transaction>
+  </Transactions>
+</BorlandProject>
